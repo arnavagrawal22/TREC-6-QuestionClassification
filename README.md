@@ -29,7 +29,7 @@ Model is confused between Entity questions and questions about humans.
 
 [TREC-6](https://torchtext.readthedocs.io/en/latest/datasets.html)
 
-## This project in PyTorch
+## This project is in PyTorch
 ### Requirements:
 - PyTorch
 - Torchtext (Used ```torchtext.legacy```)
