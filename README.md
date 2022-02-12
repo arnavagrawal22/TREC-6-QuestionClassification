@@ -19,7 +19,9 @@ The five classes are as follows :
 **RESULTS**
 
 Trained for 5 epochs on Kaggle.
+
 Test Accuracy of ~91%
+
 Model is confused between Entity questions and questions about humans.
 
 
